@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="com.trendmarketai.data_collector_service.DataCollectorServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" activateToolWindowBeforeRun="false">
+    <option name="ACTIVE_PROFILES" value="SERVER_PORT=8081" />
+    <option name="INCLUDE_PROVIDED_SCOPE" value="false" />
+    <module name="data-collector-service" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.trendmarketai.data_collector_service.DataCollectorServiceApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
